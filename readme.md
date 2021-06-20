@@ -34,20 +34,20 @@ _En este proyecto se propone el análisis de la data registrada en la pagina [In
     <td align="center">
         <a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha-3876bb137/">
             <img src="https://avatars.githubusercontent.com/u/37472325?s=400&u=29e64c760d621aefe69e0f33d596eb6c687e1627&v=4" target="_blank" width="80px;" alt=""/>
-            <br /><sub><b>Jorge Sepúlveda</b> </sub>
+            <br /><sub><b>Mayumy Carrasco</b> </sub>
         </a>
         <br />
         <a href="#analisis" title="Analisis">📈</a> 
         <a href="https://www.linkedin.com/in/xbash/" title="Github">:octocat:</a>
     </td>
     <td align="center">
-        <a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha-3876bb137/">
+        <a href="https://www.linkedin.com/in/xbash/">
             <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFShx8xpB_ibQ/profile-displayphoto-shrink_200_200/0/1585463741450?e=1629936000&v=beta&t=7GECkZiuW7zcg75UxiP6w3-CJkqIRhS5ER6q_IHbrVQ" target="_blank" width="80px;" alt=""/>
-            <br /><sub><b>Mayumy Carrasco</b> </sub>
+            <br /><sub><b>Jorge Sepúlveda</b> </sub>
         </a>
         <br />
         <a href="#analisis" title="Analisis">📈</a> 
-        <a href="https://github.com/MayumyCH" title="Github">:octocat:</a>
+        <a href="https://github.com/xbash" title="Github">:octocat:</a>
     </td>
   </tr>
 </table>
