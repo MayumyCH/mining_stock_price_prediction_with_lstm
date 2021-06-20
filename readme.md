@@ -1,28 +1,22 @@
-# PROYECTO: "Mining stock price prediction with LSTM."
+# PROYECTO: "Mining stock price prediction using deep learning networks (LSTM)."
 <div style="text-align: center;">
 <img src="https://www.aboutespanol.com/thmb/tucVaDrXW_EDVJ586lE3e-tZYJM=/2309x1299/filters:fill(auto,1)/bolsadelvalores-5ae6450b04d1cf003c23246f.jpg" alt="descargar" border="0" height=180>
 </div>
 
 
-_En este proyecto se propone el análisis de la data proporcionada por [Investing](https://es.investing.com/equities/buenaventura-mining?cid=102138); se busca predecir el precio de las acciones de la Compania de Minas Buenaventura._
+_En este proyecto se propone el análisis de la data registrada en la pagina [Investing](https://es.investing.com/equities/buenaventura-mining?cid=102138) para los años del 2013 al 2021; se busca predecir el precio de las acciones para la Compañia de Minas Buenaventura al finalizar el dia; este logro conllevaría a que los inversionistas puedan elegir las acciones que le ofrescan mayor rendimiento de beneficios._
 
-## 🔎 Comprensión del Negocio 
+## 🔎 Data
 
-Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.
+[Data de la Compania de Minas Buenaventura](https://es.investing.com/equities/buenaventura-mining)
 
-## 🧠 Problema
-
-- Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-- Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto
-
-## 💡 Hipótesis  
-Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
+  Este conjunto de data se obtuvo de consultar la pagina  [investing](https://es.investing.com/equities/buenaventura-mining) para la Compañia de Minas Buenaventura en los años del 2013 al 2021.
+  Esta data contiene 1939 registros diarios, cuyas columnas son: Fecha, últimoP(precio de cierre del día), Apertura(precio de apertura del día), Máximo(precio máximo del día), Mínimo(precio mínimo del día), Vol.(Volumen de transacción) y %var(porcentaje de variación del precio) todos estos correspondientes a las acciones de la empresa antes mencionada.
 
 ## 🔗 Link importantes 
 1. [Pdf del articulo del proyecto]()
-2. [Pdf de la exposicion del proyecto]()
-3. [Link de la data del proyecto]()
-4. [Notebook del proyecto]()
+2. [Link de la data del proyecto]()
+3. [Notebook del proyecto]()
 
 ## 💻 Contribuidores 
 
@@ -40,6 +34,15 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
     <td align="center">
         <a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha-3876bb137/">
             <img src="https://avatars.githubusercontent.com/u/37472325?s=400&u=29e64c760d621aefe69e0f33d596eb6c687e1627&v=4" target="_blank" width="80px;" alt=""/>
+            <br /><sub><b>Jorge Sepúlveda</b> </sub>
+        </a>
+        <br />
+        <a href="#analisis" title="Analisis">📈</a> 
+        <a href="https://www.linkedin.com/in/xbash/" title="Github">:octocat:</a>
+    </td>
+    <td align="center">
+        <a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha-3876bb137/">
+            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFShx8xpB_ibQ/profile-displayphoto-shrink_200_200/0/1585463741450?e=1629936000&v=beta&t=7GECkZiuW7zcg75UxiP6w3-CJkqIRhS5ER6q_IHbrVQ" target="_blank" width="80px;" alt=""/>
             <br /><sub><b>Mayumy Carrasco</b> </sub>
         </a>
         <br />
