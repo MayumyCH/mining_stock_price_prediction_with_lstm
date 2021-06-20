@@ -1,4 +1,4 @@
-# PROYECTO: "Mining stock price prediction using deep learning networks (LSTM)."
+# PROYECTO: "Mining stock price prediction using deep learning networks (LSTM MULTIVARIABLE)."
 <div style="text-align: center;">
 <img src="https://www.aboutespanol.com/thmb/tucVaDrXW_EDVJ586lE3e-tZYJM=/2309x1299/filters:fill(auto,1)/bolsadelvalores-5ae6450b04d1cf003c23246f.jpg" alt="descargar" border="0" height=180>
 </div>
@@ -14,9 +14,9 @@ _En este proyecto se propone el análisis de la data registrada en la pagina [In
   Esta data contiene 1939 registros diarios, cuyas columnas son: Fecha, últimoP(precio de cierre del día), Apertura(precio de apertura del día), Máximo(precio máximo del día), Mínimo(precio mínimo del día), Vol.(Volumen de transacción) y %var(porcentaje de variación del precio) todos estos correspondientes a las acciones de la empresa antes mencionada.
 
 ## 🔗 Link importantes 
-1. [Pdf del articulo del proyecto]()
-2. [Link de la data del proyecto]()
-3. [Notebook del proyecto]()
+1. [Pdf del articulo del proyecto](https://github.com/MayumyCH/mining_stock_price_prediction_with_lstm/blob/main/Proyecto_bolsa_de_valores.pdf)
+2. [Link de la data del proyecto](https://github.com/MayumyCH/mining_stock_price_prediction_with_lstm/blob/main/dataset/datos_mina_buenaventura.csv)
+3. [Notebook del proyecto](https://github.com/MayumyCH/mining_stock_price_prediction_with_lstm/blob/main/Mining_stock_price_prediction_with_LSTM.ipynb)
 
 ## 💻 Contribuidores 
 
